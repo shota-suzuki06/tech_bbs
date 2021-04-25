@@ -4,7 +4,7 @@ IT技術について投稿できる掲示板です。
  
 # フロントエンド
  
-HTML | CSS | Bulma
+HTML | CSS | JavaScript | Vue.js | Bulma
  
 # バックエンド
  

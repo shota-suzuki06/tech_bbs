@@ -8,8 +8,7 @@ HTML | CSS | Bulma
  
 # バックエンド
  
-PHP 8.0.0
-Laravel 8.38.0
+PHP 8.0.0 | Laravel 8.38.0
 
 # DB
 
